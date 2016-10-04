@@ -5,5 +5,5 @@ This repo contains a sample solution to the 'Minesweeper-Approval-Kata' found on
 
 To view and run the test cases, first install [TextTest](http://texttest.org)
 
-    texttest -d . -c .
+    texttest -d python -c .
 
