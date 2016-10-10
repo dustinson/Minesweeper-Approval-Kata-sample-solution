@@ -7,3 +7,10 @@ filename_convention_scheme:standard
 # Expanded name to use for application
 full_name:Minesweeper
 
+[collate_file]
+log:minesweeper.log
+[end]
+
+[run_dependent_text]
+log:^\d+{REPLACE <timestamp>}
+[end]
